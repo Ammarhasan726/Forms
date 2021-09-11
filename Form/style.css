@@ -1,0 +1,74 @@
+body{
+    background-color: rgba(0, 81, 255, 0.021);
+}
+img{
+    /* background-color: lime; */
+    height: 90px ;
+    width: 400px;
+    margin: 0px;
+    display: inline;
+    
+}
+#Face{text-align: left;font-size: 28px;margin: 0px;
+position: relative;
+left: 90px;top: 0px;
+}
+#des{
+    position: relative;
+    display: inline-block;
+    left: 260px;top: 160px;
+    /* background-color: lightslategray; */
+    width: 550px;height: 200px;
+    text-align: left;align-items: left ;
+}
+form{
+    box-shadow: -2px 2px 15px rgba(128, 128, 128, 0.3);
+    background-color: white;
+    border: white 0px solid;
+    border-radius: 10px;
+    width: 450px;height: 350px;
+    display: inline-block;
+    position: relative;
+    /* background-color: lime; */
+    left: 900px;top: -80px;
+    
+}
+#username{
+    margin: 10px;
+    border: rgba(150, 150, 150, 0.2) 1px solid;
+    border-radius: 10px;
+    font: weight 20px;;
+    font-size: large;
+    margin-left: 20px;
+    height: 45px;width: 400px;
+}
+#Password{
+    margin-left: 20px;
+    border: rgba(150, 150, 150, 0.2) 1px solid;
+    border-radius: 10px;
+    font-size: large;
+    height: 45px;width: 400px;
+}
+#login{
+    background-color: blue;color: white;text-align: center;font-size: 30px;font-style: bold ;
+    margin-left: 20px; margin-top: 10px; width: 400px;height: 45px;
+    border-radius: 10px;border: rgba(150, 150, 150, 0.2) 1px solid;
+}
+#forgot{
+    display: inline-block;
+    margin-top: 10px;margin-bottom: 10px;
+    margin-left: 170px;
+}
+hr{
+    opacity: 50%;margin: 20px;
+}
+#create{
+    background-color: rgb(16, 214, 16);color: white;text-align: center;font-size: 20px;font-style: bold ;
+    margin-left: 110px; margin-top: 10px; width: 250px;height: 45px;
+    border-radius: 10px;border: rgba(150, 150, 150, 0.2) 1px solid;text-align: center;
+}
+#small{
+    display: inline-block;
+    position: relative;
+    left: 990px;top: -35px;
+}
